@@ -5,12 +5,12 @@
 
 ---
 
-- Programming and Development, focusing on Web
-- Game Design, Development, and Aesthetics of Digital and Analog Games
-- Positive Impact Technology and Technological Art
-- Content Production
-- Marketing, Communication, Art Direction, and Graphic Production
-- Free Culture and Happiness
+- Digital project developer, focusing on Web and Games
+- Game design
+- Positive impact technology
+- Content creation
+- Free culture and happiness
+- ESPM Graduated Communicator (Advertising)
 
 ---
 
