@@ -1,5 +1,5 @@
-- 🔭 Working at [Agência Moustache](https://agenciamoustache.com.br/)
-- 🏡 Living in Foz do Iguaçu, Brasil
+- 🔭 Working at [Black & White Zebra](https://bwz.com/)
+- 🏡 Living in Matinhos, PR, Brasil
 - 🖨️ Resume: [English](https://docs.google.com/document/d/1i-6HKnLiflpMKr-s-oEDNvomyNZJNFkzssZszIxM0hc/edit?usp=sharing) || [Português](https://docs.google.com/document/d/11fNTnAKtVWCrLXvilo4qAZ3me_bD062zWdHggumR0Tw/)
 - 💾 [List of works done over 20 years](https://christhian.com.br/lista-de-trabalhos/)
 
@@ -16,13 +16,15 @@
 
 I worked with development projects for:
 
+- DPM - The Digital Project Manager
+- QAL - The QA Lead
+- Hubee.co
 - XP Inc.
 - Banco24Horas
 - Volkswagen of Brazil
 - InfoMoney
 - Rico
 - Gamifier Inc.
-- Hubee.co
 - Tecban Group (Tecban, TBnet, TBForte)
 - Secretary of the Education Department of the Government of SP
 - Regional Council of Physical Education - PR
