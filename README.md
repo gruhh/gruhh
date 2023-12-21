@@ -12,19 +12,32 @@
 - Free culture and happiness
 - ESPM Graduated Communicator (Advertising)
 
+--- 
+
+- Specialization: MBA in Full Stack Development - Node.Js + Next.Js
+- Specialization: MBA in Management of Social Impact Business
+- Specialization: MBA in Business Intelligence
+- Specialization: Game Design
+- Graduation: Technology in Digital Games
+- Graduation: Bachelor of Social Communication
+
 ---
 
 I worked with development projects for:
 
 - DPM - The Digital Project Manager
+- PMP - People Managing People
 - QAL - The QA Lead
-- Hubee.co
+- PRD - The Product Manager
+- CXL - The CX Lead
+- Crozdesk
 - XP Inc.
 - Banco24Horas
 - Volkswagen of Brazil
 - InfoMoney
 - Rico
 - Gamifier Inc.
+- Hubee.co
 - Tecban Group (Tecban, TBnet, TBForte)
 - Secretary of the Education Department of the Government of SP
 - Regional Council of Physical Education - PR
