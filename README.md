@@ -8,6 +8,10 @@
 - Digital project developer, focusing on Web and Games
 - Main programming languages: Javascript, PHP, CSS, C#
 - Frameworks: Wordpress, React, Next.Js, Unity
+- Optimizing site performance results
+- Developing features in WordPress projects (blocks, plugins, themes, and optimization)
+- Developing web applications with Next.Js
+- Ideation and execution of digital products
 - Game design
 - Positive impact technology
 - Content creation
