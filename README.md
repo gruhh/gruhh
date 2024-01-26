@@ -1,15 +1,16 @@
 - 🔭 Working at [Black & White Zebra](https://bwz.com/)
-- 🏡 Living in Matinhos, PR, Brasil
+- 🏡 Living in Curitiba and Matinhos, PR, Brasil
 - 🖨️ Resume: [English](https://docs.google.com/document/d/1i-6HKnLiflpMKr-s-oEDNvomyNZJNFkzssZszIxM0hc/edit?usp=sharing) || [Português](https://docs.google.com/document/d/11fNTnAKtVWCrLXvilo4qAZ3me_bD062zWdHggumR0Tw/)
 - 💾 [List of works done over 20 years](https://christhian.com.br/lista-de-trabalhos/)
 
 ---
 
 - Digital project developer, focusing on Web and Games
+- Main programming languages: Javascript, PHP, CSS, C#
+- Frameworks: Wordpress, React, Next.Js, Unity
 - Game design
 - Positive impact technology
 - Content creation
-- Free culture and happiness
 - ESPM Graduated Communicator (Advertising)
 
 --- 
