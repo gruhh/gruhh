@@ -19,8 +19,8 @@
 
 --- 
 
-- Specialization in Artificial Intelligence @ UTFPR (attending)
-- Specialization (MBA) in Software Engineering @ UTFPR (attending)
+- Specialization: Artificial Intelligence @ UTFPR (attending)
+- Specialization: MBA in Software Engineering @ UTFPR (attending)
 - Specialization: MBA in Full Stack Development - Node.Js + Next.Js @ XP Educação
 - Specialization: MBA in Management of Social Impact Business @ Universidade Positivo
 - Specialization: MBA in Business Intelligence @ Universidade Positivo
