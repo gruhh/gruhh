@@ -19,12 +19,14 @@
 
 --- 
 
-- Specialization: MBA in Full Stack Development - Node.Js + Next.Js
-- Specialization: MBA in Management of Social Impact Business
-- Specialization: MBA in Business Intelligence
-- Specialization: Game Design
-- Graduation: Technology in Digital Games
-- Graduation: Bachelor of Social Communication
+- Specialization in Artificial Intelligence @ UTFPR (attending)
+- Specialization (MBA) in Software Engineering @ UTFPR (attending)
+- Specialization: MBA in Full Stack Development - Node.Js + Next.Js @ XP Educação
+- Specialization: MBA in Management of Social Impact Business @ Universidade Positivo
+- Specialization: MBA in Business Intelligence @ Universidade Positivo
+- Specialization: Game Design @ Universidade Positivo
+- Graduation: Technology in Digital Games @ Universidade Positivo
+- Graduation: Bachelor of Social Communication @ ESPM
 
 ---
 
